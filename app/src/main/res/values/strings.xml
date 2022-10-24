@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Littera</string>
+    <string name="btn_ver_mais">BORA MAIS</string>
+    <string name="desc_autor">DESCRIÇÃO DO AUTOR:</string>
+    <string name="obras_autor">PRINCIPAIS OBRAS:</string>
+    <string name="desc_autor_vazio"></string>
+    <string name="obras_autor_vazio"></string>
+
+    <array name="array_autores">
+
+        <item>Pero Vaz de Caminha</item>
+        <item>Gândavo</item>
+        <item>José de Anchieta</item>
+        <item>Gregório de Matos</item>
+        <item>Bento Teixeira</item>
+        <item>Botelho de Oliveira</item>
+        <item>Cláudio Manuel da Costa</item>
+        <item>Santa Rita Durão</item>
+        <item>Tomás Antônio Gonzaga</item>
+        <item>Gonçalves Dias</item>
+        <item>Álvares de Azevedo</item>
+        <item>Castro Alves</item>
+        <item>Machado de Assis</item>
+        <item>Aluísio de Azevedo</item>
+        <item>Olavo Bilac</item>
+        <item>Cruz e Sousa</item>
+        <item>Alphonsus de Guimarães</item>
+        <item>Augusto dos Anjos</item>
+        <item>Euclides da Cunha</item>
+        <item>Lima Barreto</item>
+        <item>Graça Aranha</item>
+        <item> Manuel Bandeira</item>
+        <item>Graciliano Ramos</item>
+        <item>Clarice Lispector</item>
+        <item>Ariano Suassuna</item>
+        <item>Millôr Fernandes</item>
+        <item>Paulo Leminski</item>
+
+    </array>
+
+</resources>
